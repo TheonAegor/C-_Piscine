@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6RtRfs3UgYFpTXqWthEAqJKa2nQvs+ibhsrJ9Zbx5r03vrlVOvcgN2wBjJYzwkVDsn9oAWhLgB/MFTLnS8vqCQ==",
+  "dgSpecHash": "ob7Kj/o1FhfuIJQDwFksjYm/tU77KzhBCoLu/s36wClvYzYV0O6anAxbgJVvRD5wcnHaTFd2KHmkqCj6VU388g==",
   "success": true,
-  "projectFilePath": "/home/taegor/c-sharp/day00/day00.csproj",
+  "projectFilePath": "/home/taegor/c-sharp/day00/ex00/day00.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

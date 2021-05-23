@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/taegor/c-sharp/day00/day00.csproj": {}
+    "/home/taegor/c-sharp/day00/ex00/day00.csproj": {}
   },
   "projects": {
-    "/home/taegor/c-sharp/day00/day00.csproj": {
+    "/home/taegor/c-sharp/day00/ex00/day00.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/taegor/c-sharp/day00/day00.csproj",
+        "projectUniqueName": "/home/taegor/c-sharp/day00/ex00/day00.csproj",
         "projectName": "day00",
-        "projectPath": "/home/taegor/c-sharp/day00/day00.csproj",
+        "projectPath": "/home/taegor/c-sharp/day00/ex00/day00.csproj",
         "packagesPath": "/home/taegor/.nuget/packages/",
-        "outputPath": "/home/taegor/c-sharp/day00/obj/",
+        "outputPath": "/home/taegor/c-sharp/day00/ex00/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/taegor/.nuget/NuGet/NuGet.Config"
